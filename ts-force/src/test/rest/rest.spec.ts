@@ -23,5 +23,4 @@ describe('Rest Client', () => {
         expect(client1).to.equal(client2);
         expect(client1).not.to.equal(clientOther);
     });
-
 });
